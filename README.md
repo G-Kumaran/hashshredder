@@ -62,8 +62,14 @@ Please do get in touch if you have any feature requests or suggestions
 > Twitter [@hashshredder](https://t.me/hashshredder)
 
 ## Upgrades
-* 0.2.1
+### 0.2.3
+  - Added Aggressive mode to configuration. 
+    - Make sure to set a safe maxPrice before enabling this mode. 
+    - Will chase any price to achieve the target order limit.
+    - Set the desired order hashrate as limit instead of 0 or abnormal value
+
+### 0.2.1
   - Added telegram group
   
-* 0.2.0
+### 0.2.0
   - First public launch
