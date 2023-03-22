@@ -24,7 +24,9 @@
   - With HashShredder, you don't need to worry about managing your Nicehash orders manually. 
   - Set minimum and maximum price range for each algorithm.
   - Order price trend graphs to help in configuring the above.
-  - Configure the rate of price increase to either be aggressive or passive based on your requirements.
+  - Configure the rate of price increase to either be aggressive or normal based on your requirements.
+    - Normal mode will be gradual in its price changes
+    - Aggressive mode will chase any price immediately
   - Bulk edit order prices manually for emergency adjustments.
   - Standard Order specialised market dashboard.
 * Optimal Pricing
