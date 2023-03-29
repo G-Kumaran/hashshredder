@@ -63,7 +63,10 @@ Please do get in touch if you have any feature requests or suggestions
 > Discord [@GKumaran#9439]
 > Twitter [@hashshredder](https://t.me/hashshredder)
 
-## Upgrades
+## Upgradess
+### 0.2.4
+  - Added support for lightning payments. Uses nicehash node, so payments from nicehash to hashshredder are near instant
+  
 ### 0.2.3
   - Added Aggressive mode to configuration. 
     - Make sure to set a safe maxPrice before enabling this mode. 
