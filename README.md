@@ -26,6 +26,9 @@
   - Order price trend graphs to help in configuring the above.
   - Configure the rate of price increase to either be aggressive or normal based on your requirements.
     - Normal mode will be gradual in its price changes
+      - Spam order jumper
+      - Anti crazy orders
+      - Anti-ZIL bot
     - Aggressive mode will chase any price immediately
   - Bulk edit order prices manually for emergency adjustments.
   - Standard Order specialised market dashboard.
