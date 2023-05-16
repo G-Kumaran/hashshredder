@@ -19,6 +19,9 @@
 
 ## Key Features
 
+* Automated Buying of TeamMining Packages on Nicehash
+  - Set number of packages and coin, will keep buying packages as soon as available
+  - No more missed packages
 * Nicehash Order Management
   - HashShredder is an advanced Nicehash bot that automates your Nicehash order price adjustments. 
   - With HashShredder, you don't need to worry about managing your Nicehash orders manually. 
@@ -67,6 +70,9 @@ Please do get in touch if you have any feature requests or suggestions
 > Twitter [@hashshredder](https://t.me/hashshredder)
 
 ## Upgradess
+### 0.2.6
+  - Added support for team mining automation
+  
 ### 0.2.4
   - Added support for lightning payments. Uses nicehash node, so payments from nicehash to hashshredder are near instant
   
